@@ -1,0 +1,2 @@
+npm i dotenv es una deependencia que requerimos:
+
